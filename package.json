@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
+  "description": "A simple linkedin crawler that crawls through people who also viewed links scraping profile information from each.",
   "scripts": {
-    "start": "node src/index.js",
-    "test": "jest --watchAll"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "inquirer": "^7.3.3",
